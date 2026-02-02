@@ -1,0 +1,5 @@
+{
+  "name": "MeowDrop LAN",
+  "description": "A minimalist, high-capacity local network file transfer tool with a cat-themed toggle.",
+  "requestFramePermissions": []
+}
